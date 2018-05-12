@@ -1,0 +1,59 @@
+_repo: De-avonturen-van-Oliver-Twist_37093
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Van der Veer, Elizabeth Arnolda
+    alias: Veer, Elizabeth Arnolda van der
+    birthdate: 1887
+    deathdate: 1941
+    gutenberg_agent_id: '38639'
+    url: http://www.gutenberg.org/2009/agents/38639
+  - agent_name: Cruikshank, George
+    alias: Cruickshank, George
+    birthdate: 1792
+    deathdate: 1878
+    gutenberg_agent_id: '9068'
+    url: http://www.gutenberg.org/2009/agents/9068
+    wikipedia: http://en.wikipedia.org/wiki/George_Cruikshank
+  translator:
+    agent_name: Gogh-Kaulbach, Anna van
+    aliases:
+    - Kaulbach, Anna Maria
+    - Van Gogh-Kaulbach, Anna
+    birthdate: 1869
+    deathdate: 1960
+    gutenberg_agent_id: '31240'
+    url: http://www.gutenberg.org/2009/agents/31240
+covers:
+- cover_type: archival
+  image_path: 37093-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Dickens, Charles
+    aliases:
+    - Boz
+    - Dickens, Charles John Huffam
+    birthdate: 1812
+    deathdate: 1870
+    gutenberg_agent_id: '37'
+    url: http://www.gutenberg.org/2009/agents/37
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
+description: ''
+gutenberg_issued: '2011-08-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37093'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'London (England) -- Fiction'
+- !lcsh 'Kidnapping victims -- Fiction'
+- !lcsh 'Bildungsromans'
+- !lcsh 'Orphans -- Fiction'
+- !lcsh 'Criminals -- Fiction'
+- !lcsh 'Boys -- Fiction'
+title: De avonturen van Oliver Twist
+url: http://www.gutenberg.org/ebooks/37093
